@@ -1,18 +1,18 @@
 ![Title](https://github.com/Osmeal/Frog-Adventure/assets/114495046/7e9b5343-96fe-4f4d-8f2a-24cc986929dc)
 
-Frog Adventure es un plataformas 2D con una estetica retro
+Frog Adventure es un juego de plataformas 2D con una estética retro.
 
-En este simpatico juego controlaremos una rana ninja que tendra que coger todas las frutas del nivel para
-poder pasar al siguiente, para ello tendra que esquivar los obstaculos y enemigos de su camino.
+En este simpático juego controlaremos una rana ninja que tendrá que recoger todas las frutas del nivel para poder avanzar al siguiente. 
+Para ello, tendrá que esquivar los obstáculos y enemigos que se crucen en su camino.
 
-Juego creado en Unity, programado en C#, algunos sprites cogidos del asset de PixelAdventures y otros 
-creados en https://www.piskelapp.com/p/create/sprite
+El juego ha sido creado en Unity y programado en C#. Algunos sprites fueron tomados del asset de PixelAdventures y otros 
+fueron creados en PiskelApp.
 
 ## Para futuro
-Añadir mas niveles con enemigos nuevos.
+Añadir más niveles con enemigos nuevos.
 
 Añadir opciones de manejo de audio.
 
-Añadir mecanicas nuevas que hagan el juego mas interesante y entretenido.
+Añadir mecánicas nuevas que hagan el juego más interesante y entretenido.
 
-Poder jugar en cooperativo local.
+Permitir jugar en cooperativo local.
