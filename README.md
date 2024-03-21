@@ -9,7 +9,7 @@ Juego creado en Unity, programado en C#, algunos sprites cogidos del asset de Pi
 creados en https://www.piskelapp.com/p/create/sprite
 
 ## Para futuro
-Añadir mas niveles con enemigos nuevos
-Añadir opciones de manejo de audio
-Añadir mecanicas nuevas que hagan el juego mas interesante y entretenido
-Poder jugar en cooperativo local
+Añadir mas niveles con enemigos nuevos.
+Añadir opciones de manejo de audio.
+Añadir mecanicas nuevas que hagan el juego mas interesante y entretenido.
+Poder jugar en cooperativo local.
