@@ -6,7 +6,7 @@ En este simpático juego controlaremos una rana ninja que tendrá que recoger to
 Para ello, tendrá que esquivar los obstáculos y enemigos que se crucen en su camino.
 
 El juego ha sido creado en Unity y programado en C#. Algunos sprites fueron tomados del asset de PixelAdventures y otros 
-fueron creados en PiskelApp.
+fueron creados en [PiskelApp](https://www.piskelapp.com/p/create/sprite).
 
 ## Para futuro
 Añadir más niveles con enemigos nuevos.
